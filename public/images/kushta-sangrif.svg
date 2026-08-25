@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#efe7db"/><ellipse cx="300" cy="530" rx="170" ry="25" fill="#cdbda9"/>
+<path d="M205 190 Q300 145 395 190 L380 490 Q300 530 220 490Z" fill="#7c3f24" stroke="#4b2a1c" stroke-width="8"/>
+<rect x="220" y="245" width="160" height="145" rx="8" fill="#f3dfaa"/><text x="300" y="285" text-anchor="middle" fill="#5a2c1d" font-family="Georgia" font-size="24">KUSHTA</text><text x="300" y="322" text-anchor="middle" fill="#5a2c1d" font-family="Georgia" font-size="22">SANGRIF</text><text x="300" y="355" text-anchor="middle" fill="#8e2028" font-family="Arial" font-size="14">FULL COURSE</text>
+<path d="M230 180 Q300 130 370 180 L360 220 Q300 245 240 220Z" fill="#e0c88c" stroke="#4b2a1c" stroke-width="7"/></svg>
